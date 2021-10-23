@@ -1,0 +1,11 @@
+class move
+
+var speed = 100
+var velocity = Vector()
+var gravity = 5
+
+func _phycisprocess()
+{
+  velocity += gravity
+  if Input.is_
+}
